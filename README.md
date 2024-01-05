@@ -2,4 +2,4 @@
 
 This is my first Repository
 <br>
-Founder : Rushi Shah
+Founder : Rushi Shah (Hello)
